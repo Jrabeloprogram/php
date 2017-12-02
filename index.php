@@ -1,6 +1,6 @@
 <?php
 
-echo"Maktub";
+echo"olá mundo";
 ;
 
 ?>
